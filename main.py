@@ -2,7 +2,7 @@ from dhooks import Webhook, Embed
 import datetime
 import time
 
-hook = Webhook("https://discord.com/api/webhooks/903667555451932683/NjXmQn24h8lar_52Bhqnu3sYVmb8BHhCOpW_apgeUMNNSJ2uz1bawbH348OV-tGtPidh")
+hook = Webhook("tu daj link do webhooka")
 
 print('włączono')
 
